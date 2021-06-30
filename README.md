@@ -1,4 +1,4 @@
-# Weather-Predictor
+# Beach-Visit GeoTagger Software
 A location based (geo-tagging) data analyzer to build a weather forecasting model in the NASA Hackathon '18 to suggest best times to visit the nearest beach(input as searchbar query for the user).
 
 We have used a correlation matrix classifier backed by weather data from DarkSky API.
